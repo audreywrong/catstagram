@@ -1,0 +1,43 @@
+export default [
+  {
+    pk: 1,
+    name: "testing1",
+    comments: ["comment 1", "comment 2", "comment 3"],
+    username: "socleansofreshh",
+    userImage: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/me_3.jpg",
+    image:
+      "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/tropical_beach.jpg",
+    likes: 36,
+    hasBeenLiked: false,
+    caption: "When you're ready for summer '18 ☀️",
+    timestamp_created: "2022-08-25T18:54:46.717784Z",
+    timestamp_updated: "2022-08-25T18:54:46.717802Z",
+  },
+  {
+    pk: 2,
+    name: "testing2",
+    comments: ["comment 4", "comment 5"],
+    username: "djirdehh",
+    userImage: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/me2.png",
+    image: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/downtown.jpg",
+    likes: 20,
+    hasBeenLiked: false,
+    caption: "Views from the six...",
+    timestamp_created: "2022-08-25T18:54:46.717784Z",
+    timestamp_updated: "2022-08-25T18:54:46.717802Z",
+  },
+  {
+    pk: 3,
+    username: "puppers",
+    name: "testing3",
+    comments: ["comment 6", "comment 7"],
+    userImage:
+      "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/pug_personal.jpg",
+    image: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/puppers.jpg",
+    likes: 49,
+    hasBeenLiked: false,
+    caption: "Current mood 🐶",
+    timestamp_created: "2022-08-25T18:54:46.717784Z",
+    timestamp_updated: "2022-08-25T18:54:46.717802Z",
+  },
+];
