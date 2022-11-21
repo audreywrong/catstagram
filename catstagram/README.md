@@ -1,29 +1,27 @@
 # catstagram
 
-This template should help get you started developing with Vue 3 in Vite.
+This is the first version/iteration of "Catstagram". Please visit the repository for the second iteration here: (https://github.com/audreywrong/catstagram-v2).
+
+This first iteration focuses on a randomized feed of images that can be commented on (locally), individually.
+Additionally, you can upload an individual image to be added to the feed and commented on.
+
+Highlighted features:
+
+- Upload individual image to the feed
+- View a feed of all uploaded images
+- Comment on an individual image
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+[VSCode](https://code.visualstudio.com/)
 
 ## Project Setup
 
-```sh
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
 
-### Compile and Minify for Production
+<!-- ### Run Unit Tests with [Vitest](https://vitest.dev/)
 
 ```sh
-npm run build
-```
+npm run test:unit
+``` -->
